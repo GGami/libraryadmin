@@ -1,6 +1,6 @@
 # libraryadmin
 
-> The Saint Louis University Library is planning to integrate an on-line
+> The University Library is planning to integrate an on-line
 reservation and borrowing system that will allow members of the faculty,
 students, and administration personnel to:
 
@@ -36,7 +36,7 @@ Procedures, policies, and Guidelines
 Accessing:
 
   - Registration is required in order to use the system.
-  - Personal appearance at the SLU Library is needed to verify and complete the registration.
+  - Personal appearance at the Library is needed to verify and complete the registration.
   
 Searching:
 
