@@ -34,10 +34,14 @@ to initiate or finalize the processes that will take place.
 Procedures, policies, and Guidelines
 
 Accessing:
-
+  * Privacy Policy
+  - The website and its administrators take a proactive approach to user privacy and ensure the necessary steps are     taken to protect the privacy of its users throughout their visiting experience. This website complies with all     national laws and requirements for user privacy.
+  - The website uses cookies to provide a better user experience. A cookie control system will prompt the user on      their first visit to the website to allow or disallow the use of cookies on their computer / device.
+  - 
   - Registration is required in order to use the system.
   - Personal appearance at the Library is needed to verify and complete the registration.
   
 Searching:
-
+  - Do not expect all search will return some data. Only a limited amout of resources are avaible.
+  - 
 Reserving/Borrowing:
