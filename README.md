@@ -39,6 +39,7 @@ Procedures, policies, and Guidelines
   - The website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. It will not store, save or collect      personal information. You can read Google's privacy policy here for further information http://www.google.com/privacy.html ].
   - Users reaching this site and/or its proprietors do as such at their own discretion and give any such individual subtle elements asked for at their own risk.
   - Users ought to in this manner note they click on external links at their own particular risk and this site and its proprietors can't be held at risk for any harms or implications brought about by going to any outer connections specified.
+  - Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor its owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
 
 Accessing:
 
