@@ -58,3 +58,8 @@ Searching:
   - Do not expect that a search will display results. Only a limited amout of resource are avaible at the SLU Library.
   - 
 Reserving/Borrowing:
+
+  - After finding the material on search, check whether the status is availbable or not.
+  - Available materials will have their buttons enabled.
+  - Clicking the "Reserve/Borrow" button will send a notice to the admin in order for them to find and reserve the material.
+  - Note that after reserving the material, a status will appear beside the material on your dashboard to notify you if it is availble for pick up at the SLU Library. It would take a few minutes or hours before the material will be available depending on the queue and time of reservation.
