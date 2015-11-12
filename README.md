@@ -48,9 +48,11 @@ distribute content obtained at this website.
   - Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor its owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
 
 Accessing:
-  - User may view, duplicate, download to a local drive, print and disperse the substance of this site, or any part thereof for instructive or reference purposes and for non-business purposes.
-  - Registration is required upon the use of the system.
-  - Personal appearance at the Library is needed to verify and complete the registration.
+
+  - Users should register on the website before accessing and using the system.
+  - After the online registration, personal appearance at the Library is needed to verify and complete the registration.
+  - User may view, duplicate, download to a local drive, print and disperse the content of this site, or any part for instructive or reference purposes and for non-business purposes.
+  
   
 Searching:
   - Do not expect that a search will display results. Only a limited amout of resource are avaible at the SLU Library.
