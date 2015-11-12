@@ -33,6 +33,12 @@ to initiate or finalize the processes that will take place.
 
 Procedures, policies, and Guidelines
 
+TERMS AND CONDITIONS
+  - Any person accessing this website (user) is subject to, and agrees to, the terms and conditions
+set out in this legal notice. If the user does not wish to be bound by these terms and
+conditions, the user may not access, display, use or download and/or otherwise copy or
+distribute content obtained at this website.
+
 * Privacy Policy
   - The website and its administrators take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website complies with all     national laws and requirements for user privacy.
   - The website uses cookies to provide a better user experience. A cookie control system will prompt the user on  their first visit to the website to allow or disallow the use of cookies on their computer / device.
@@ -42,7 +48,6 @@ Procedures, policies, and Guidelines
   - Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor its owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
 
 Accessing:
-
   - Registration is required upon the use of the system.
   - Personal appearance at the Library is needed to verify and complete the registration.
   
