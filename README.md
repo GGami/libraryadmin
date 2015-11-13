@@ -59,9 +59,8 @@ Searching:
   - 
 Reserving/Borrowing:
 
-  - Reservation/Borrowing of materials will take an amount of time to complete, users that need the material immediately should go directly at the Library and find it themselve or ask assistance from the librarians.
-  - After finding the material on search, check whether the status is availbable or not.
-  - Available materials will have their buttons enabled.
-  - Clicking the "Reserve/Borrow" button will send a notice to the admin in order for them to find and reserve the material.
-  - Note that after reservation, a status will appear beside the material on your dashboard to notify you if it is availble for pick up at the SLU Library. It would take a few minutes or hours before the material will be available depending on the queue and time of reservation.
+  - Reservation/Borrowing of materials will take an amount of time to complete, users that need the material immediately should go directly to the Library and find it themselves or ask assistance from the librarians.
+  - After finding the material on search, check whether the status is availbable or not. Available materials will have their buttons enabled.
+  - Clicking the "Reserve/Borrow" button will send a notice to the admin, an alotted amount of time will be given to the library staff in order for them to find and reserve the material.
+  - Note that after reservation, a status will appear beside the material on your dashboard to notify you if it is availble for pick up at the University Library. It would take a few minutes or hours before the material will be available depending on the queue and time of reservation.
   - 
