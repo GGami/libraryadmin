@@ -47,17 +47,17 @@ distribute content obtained at this website.
   - Users ought to in this manner note they click on external links at their own particular risk and this site and its proprietors can't be held at risk for any harms or implications brought about by going to any outer connections specified.
   - Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor its owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
 
-Accessing:
+*Accessing:
 
   - Users should register on the website before accessing and using the system.
   - After the online registration, personal appearance at the Library is needed to verify and complete the registration.
-  - User may view, duplicate, download to a local drive, print and disperse the content of this site, or any part for instructive or reference purposes and for non-business purposes.
+  - Users may view, duplicate, download to a local drive, print and disperse the content of this site, or any part for instructive or reference purposes and for non-business purposes.
   
-  
-Searching:
+*Searching:
   - Do not expect that a search will display results. Only a limited amout of resource are avaible at the SLU Library.
+  - Note that the search bar is not connected to the Web, rather it is only with-in the catalog search of the OPAC.
   - 
-Reserving/Borrowing:
+*Reserving/Borrowing:
 
   - Reservation/Borrowing of materials will take an amount of time to complete, users that need the material immediately should go directly to the Library and find it themselves or ask assistance from the librarians.
   - After finding the material on search, check whether the status is availbable or not. Available materials will have their buttons enabled.
