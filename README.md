@@ -45,7 +45,7 @@ distribute content obtained at this website.
   - The website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. It will not store, save or collect      personal information. You can read Google's privacy policy here for further information http://www.google.com/privacy.html ].
   - Users reaching this site and/or its proprietors do as such at their own discretion and give any such individual subtle elements asked for at their own risk.
   - Users ought to in this manner note they click on external links at their own particular risk and this site and its proprietors can't be held at risk for any harms or implications brought about by going to any outer connections specified.
-  - Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor its owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
+  - Users are advised to use the platform wisely with due care and caution in regard to their own privacy and personal details. This website nor its owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
 
 *Accessing:
 
@@ -58,7 +58,7 @@ distribute content obtained at this website.
   - Note that the search bar is not connected to the Web, rather it is only with-in the catalog search of the OPAC.
   - 
 *Reserving/Borrowing:
-
+  - +task: add fines pdf file: http://www.slu.edu.ph/images/stories/library-pdf/5%20library%20fines.pdf
   - Reservation/Borrowing of materials will take an amount of time to complete, users that need the material immediately should go directly to the Library and find it themselves or ask assistance from the librarians.
   - After finding the material on search, check whether the status is availbable or not. Available materials will have their buttons enabled.
   - Clicking the "Reserve/Borrow" button will send a notice to the admin, an alotted amount of time will be given to the library staff in order for them to find and reserve the material.
