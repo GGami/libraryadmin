@@ -60,7 +60,8 @@ distribute content obtained at this website.
 *Reserving/Borrowing:
   - +task: add fines pdf file: http://www.slu.edu.ph/images/stories/library-pdf/5%20library%20fines.pdf
   - Reservation/Borrowing of materials will take an amount of time to complete, users that need the material immediately should go directly to the Library and find it themselves or ask assistance from the librarians.
-  - After finding the material on search, check whether the status is availbable or not. Available materials will have their buttons enabled.
-  - Clicking the "Reserve/Borrow" button will send a notice to the admin, an alotted amount of time will be given to the library staff in order for them to find and reserve the material.
+  - After finding the material on search the search page, check whether the status is availbable or not. Available materials will have their buttons colored green.
+  - Clicking the "Reserve Button" will send a notice to the the system administrator, the admin would then verify and check the information of the user wether he/she is eligible for the reservation. Eligible users should have no violations and other sanctions from the library inorder to successfully complete the reservation. Users that have violations should resolve the matter first before a reservation from the system can be accomplished.
+  - An alotted amount of time will be given to the library staff in order for them to find and reserve the material.
   - Note that after reservation, a status will appear beside the material on your dashboard to notify you if it is availble for pick up at the University Library. It would take a few minutes or hours before the material will be available depending on the queue and time of reservation.
   - 
