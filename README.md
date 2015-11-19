@@ -54,8 +54,8 @@ distribute content obtained at this website.
   - Users may view, duplicate, download to a local drive, print and disperse the content of this site, or any part for instructive or reference purposes and for non-business purposes.
   
 *Searching:
-  - Do not expect that a search will display results. Only a limited amout of resource are avaible at the SLU Library.
-  - Note that the search bar is not connected to the Web, rather it is only with-in the catalog search of the OPAC.
+  - Do not expect that a search will display results. Only a limited amout of resource are avaible in the database.
+  - Note that the search bar is not connected to the Web, it will only query data from the database.
   - 
 *Reserving/Borrowing:
   - +task: add fines pdf file: http://www.slu.edu.ph/images/stories/library-pdf/5%20library%20fines.pdf
