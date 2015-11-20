@@ -57,7 +57,10 @@ distribute content obtained at this website.
   - Do not expect that a search will display results. Only a limited amout of resource are avaible in the database.
   - Note that the search bar is not connected to the Web, it will only query data from the database.
   - 
+  - "GO" button
+  - 
 *Reserving/Borrowing:
+
   - +task: add fines pdf file: http://www.slu.edu.ph/images/stories/library-pdf/5%20library%20fines.pdf
   - Reservation/Borrowing of materials will take an amount of time to complete, users that need the material immediately should go directly to the Library and find it themselves or ask assistance from the librarians.
   - After finding the material on search the search page, check whether the status is availbable or not. Available materials will have their buttons colored green.
@@ -65,3 +68,9 @@ distribute content obtained at this website.
   - An alotted amount of time will be given to the library staff in order for them to find and reserve the material.
   - Note that after reservation, a status will appear beside the material on your dashboard to notify you if it is availble for pick up at the University Library. It would take a few minutes or hours before the material will be available depending on the queue and time of reservation.
   - 
+
+*Approving of Request
+  - Approving of Registration can be found in the right side of the admin dashboard just beside the server load box panel, together with other requests and approvals.
+  - Requests for Registration should only be approved upon the personal appearance of the individual to ensure authenticity.
+  - 
+  - Approving the reservation of material
