@@ -78,6 +78,6 @@ distribute content obtained at this website.
   - Requests for Registration should only be approved upon the personal appearance of the individual to ensure authenticity.
   - 
   - Approving the reservation of material, first the admin would check the status of the user by hovering its name and a popover would appear, it will show the eligibility of the user to borrow the material.
-  - Second, the admin would then find the materials needed by the user and place it in the counter.
+  - Second, the admin would then find the materials needed by the user and place it in the counter or will instruct the user where to find it.
   - Third, the admin will now put a check mark beside the request and save it. It will then send a notification to the user's dashboard or search page (user should be logged in) that the material being borrowed is now availble for pick up at the library.
   - Finally *ask the process in library
