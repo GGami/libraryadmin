@@ -69,8 +69,10 @@ distribute content obtained at this website.
   - Note that after reservation, a status will appear beside the material on your dashboard to notify you if it is availble for pick up at the University Library. It would take a few minutes or hours before the material will be available depending on the queue and time of reservation.
   - 
 
-*Approving of Request
+*Approving of Request (Admin)
   - Approving of Registration can be found in the right side of the admin dashboard just beside the server load box panel, together with other requests and approvals.
   - Requests for Registration should only be approved upon the personal appearance of the individual to ensure authenticity.
   - 
-  - Approving the reservation of material
+  - Approving the reservation of material, first the admin would check the status of the user by hovering its name and a popover would appear, it will show the eligibility of the user to borrow the material.
+  - Second, the admin would then find the materials needed by the user and place it in the counter.
+  - Third, the admin will now put a check mark beside the request and save it. It will then send a notification to the user's dashboard or search page (user should be logged in) that the material being borrowed is now availble for pick up at the library.
