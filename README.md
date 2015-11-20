@@ -46,6 +46,10 @@ distribute content obtained at this website.
   - Users reaching this site and/or its proprietors do as such at their own discretion and give any such individual subtle elements asked for at their own risk.
   - Users ought to in this manner note they click on external links at their own particular risk and this site and its proprietors can't be held at risk for any harms or implications brought about by going to any outer connections specified.
   - Users are advised to use the platform wisely with due care and caution in regard to their own privacy and personal details. This website nor its owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
+  - 
+  
+*Task
+  - Add Captcha register login
 
 *Accessing:
 
@@ -61,7 +65,7 @@ distribute content obtained at this website.
   - 
 *Reserving/Borrowing:
 
-  - +task: add fines pdf file: http://www.slu.edu.ph/images/stories/library-pdf/5%20library%20fines.pdf
+  - 
   - Reservation/Borrowing of materials will take an amount of time to complete, users that need the material immediately should go directly to the Library and find it themselves or ask assistance from the librarians.
   - After finding the material on search the search page, check whether the status is availbable or not. Available materials will have their buttons colored green.
   - Clicking the "Reserve Button" will send a notice to the the system administrator, the admin would then verify and check the information of the user wether he/she is eligible for the reservation. Eligible users should have no violations and other sanctions from the library inorder to successfully complete the reservation. Users that have violations should resolve the matter first before a reservation from the system can be accomplished.
@@ -76,3 +80,4 @@ distribute content obtained at this website.
   - Approving the reservation of material, first the admin would check the status of the user by hovering its name and a popover would appear, it will show the eligibility of the user to borrow the material.
   - Second, the admin would then find the materials needed by the user and place it in the counter.
   - Third, the admin will now put a check mark beside the request and save it. It will then send a notification to the user's dashboard or search page (user should be logged in) that the material being borrowed is now availble for pick up at the library.
+  - Finally *ask the process in library
